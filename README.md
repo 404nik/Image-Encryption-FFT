@@ -1,7 +1,3 @@
-Certainly! Your project appears to be an image encryption and decryption system based on Fourier Transform and a custom mutation operation. Here's a README file for your GitHub repository:
-
----
-
 # Image Encryption and Decryption using Fourier Transform
 
 This project provides a Python implementation for encrypting and decrypting images using Fourier Transform techniques. The encryption process involves transforming the image into the frequency domain, mutating the frequency components, and then transforming it back into the spatial domain. Decryption reverses this process to recover the original image.
